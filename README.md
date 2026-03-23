@@ -24,7 +24,7 @@ Accounting information is the most recent available information as of the end of
 - **Country**
 - **Industry** (as defined by Refinitiv)
 - **Sales** (in USD mn)
-- **SalesGrwth**: \$ [(Sales_t / Sales_{t-2})^(1/2)\] − 1 $; $ if `Sales_{t-2}` $ is missing, use the previous year’s sales growth
+- **SalesGrwth**: \ $ [(Sales_t / Sales_{t-2})^(1/2)\] − 1 $; $ if `Sales_{t-2}` $ is missing, use the previous year’s sales growth
 - **ROA**: EBIT / Total Assets
 - **ATR**: Asset Turnover Ratio = Sales / Total Assets
 - **EBITDA_pct**: EBITDA margin = EBITDA / Sales
@@ -40,5 +40,4 @@ Accounting information is the most recent available information as of the end of
 - **ESG Score**: best = 100, worst = 0
 - **CDS**: CDS as of January 26, 2026 (Damodaran website)
 
-<img width="865" height="30" alt="image" src="https://github.com/user-attachments/assets/e53e7f1f-c68d-479f-9448-f666da960168" />
 
