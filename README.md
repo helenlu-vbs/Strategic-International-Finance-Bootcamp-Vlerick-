@@ -1,5 +1,5 @@
 # Strategic International Finance Bootcamp – Vlerick Business School
-# International Comparable Company Valuation
+## International Comparable Company Valuation
 
 This repository contains example code for an exercise developed for the Strategic International Finance Bootcamp at Vlerick Business School. We apply gradient boosting models (GBMs) to conduct relative valuation in an international setting.
 
@@ -24,7 +24,7 @@ Accounting information is the most recent available information as of the end of
 - **Country**
 - **Industry** (as defined by Refinitiv)
 - **Sales** (in USD mn)
-- **SalesGrwth**: $\left(\frac{\mathrm{Sales}_t}{\mathrm{Sales}_{t-2}}\right)^{1/2} - 1$; if $\mathrm{Sales}_{t-2}$ is missing, use the previous year's sales growth
+- **SalesGrwth**: $`\left(\frac{\mathrm{Sales}_t}{\mathrm{Sales}_{t-2}}\right)^{1/2} - 1`$; if $`\mathrm{Sales}_{t-2}`$ is missing, use the previous year's sales growth
 - **ROA**: EBIT / Total Assets
 - **ATR**: Asset Turnover Ratio = Sales / Total Assets
 - **EBITDA_pct**: EBITDA margin = EBITDA / Sales
