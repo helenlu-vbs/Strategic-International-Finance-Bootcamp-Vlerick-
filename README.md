@@ -39,5 +39,3 @@ Accounting information is the most recent available information as of the end of
 - **ESG Controversies Score**: best = 100, worst = 0
 - **ESG Score**: best = 100, worst = 0
 - **CDS**: CDS as of January 26, 2026 (Damodaran website)
-
-
