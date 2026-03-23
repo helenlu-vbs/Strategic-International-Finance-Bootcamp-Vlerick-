@@ -21,7 +21,6 @@ Accounting information is the most recent available information as of the end of
 
 ## Features
 
-- **Country**
 - **Industry** (as defined by Refinitiv)
 - **Sales** (in USD mn)
 - **SalesGrwth**: $`\left(\frac{\mathrm{Sales}_t}{\mathrm{Sales}_{t-2}}\right)^{1/2} - 1`$; if $`\mathrm{Sales}_{t-2}`$ is missing, use the previous year's sales growth
