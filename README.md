@@ -38,3 +38,5 @@ Accounting information is the most recent available information as of the end of
 - **ESG Controversies Score**: best = 100, worst = 0
 - **ESG Score**: best = 100, worst = 0
 - **CDS**: CDS as of January 26, 2026 (Damodaran website)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/Strategic-International-Finance-Bootcamp-Vlerick-/blob/main/notebooks/Comparables_GBM_2026.ipynb)
