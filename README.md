@@ -24,7 +24,7 @@ Accounting information is the most recent available information as of the end of
 - **Country**
 - **Industry** (as defined by Refinitiv)
 - **Sales** (in USD mn)
-- **SalesGrwth**: \[(Sales_t / Sales_{t-2})^(1/2)\] − 1; if `Sales_{t-2}` is missing, use the previous year’s sales growth
+- **SalesGrwth**: \$ [(Sales_t / Sales_{t-2})^(1/2)\] − 1 $; $ if `Sales_{t-2}` $ is missing, use the previous year’s sales growth
 - **ROA**: EBIT / Total Assets
 - **ATR**: Asset Turnover Ratio = Sales / Total Assets
 - **EBITDA_pct**: EBITDA margin = EBITDA / Sales
