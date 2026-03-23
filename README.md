@@ -30,16 +30,16 @@ Accounting information is the most recent available information as of the end of
 - **SalesGrwth**: $`\left(\frac{\mathrm{Sales}_t}{\mathrm{Sales}_{t-2}}\right)^{1/2} - 1`$; if $`\mathrm{Sales}_{t-2}`$ is missing, use the previous year's sales growth
 - **ROA**: EBIT / Total Assets
 - **ATR**: Asset Turnover Ratio = Sales / Total Assets
-- **EBITDA_pct**: EBITDA margin = EBITDA / Sales
+- **EBITDA%**: EBITDA margin = EBITDA / Sales
 - **Capex2EBITDA**: Reinvestment rate = Capital Expenditure / EBITDA (missing CapEx replaced with 0)
-- **NetDebt2TotalAssets**: Leverage ratio = (Total Interest-Bearing Debt − Cash & Cash Equivalents) / Total Assets
+- **ND2TA**: Leverage ratio = (Total Interest-Bearing Debt − Cash & Cash Equivalents) / Total Assets
 - **OpLev**: Operating leverage = \[COGS (Cost of Goods Sold) + SG&A (Selling, General and Administrative Expenses)\] / Total Assets
-- **Cash2TotalAssets**: Cash & Cash Equivalents / Total Assets
+- **Cash2TA**: Cash & Cash Equivalents / Total Assets
 - **Rnd2Sale**: R&D Expenses / Sales (missing R&D replaced with 0)
-- **TaxRate**: Total tax expense (in the income statement) / Profit before tax
-- **PayoutRatio**: Total cash dividends / Net profit before extraordinary items
-- **Total CO2 Equivalent Emissions to EVIC (USD mn)**: \[(Scope 1 + Scope 2)\] / Enterprise Value Including Cash (USD mn)
-- **ESG Controversies Score**: best = 100, worst = 0
-- **ESG Score**: best = 100, worst = 0
+- **Tax**: Total tax expense (in the income statement) / Profit before tax
+- **Payout**: Total cash dividends / Net profit before extraordinary items
+- **CO2Intensity**: \[(Scope 1 + Scope 2)\] / Enterprise Value Including Cash (USD mn)
+- **ESGControversy**: best = 100, worst = 0
+- **ESG**: best = 100, worst = 0
 - **CDS**: CDS as of January 26, 2026 (Damodaran website)
 
