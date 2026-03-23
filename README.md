@@ -2,7 +2,7 @@
 ## International Comparable Company Valuation
 
 
-# Run code to conduct comparable company valuation in Google Colab, and use SHAP plots to understand how firm fundamentals and country risks are related to valuation.
+### Run code to conduct comparable company valuation in Google Colab, and use SHAP plots to understand how firm fundamentals and country risks are related to valuation.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/helenlu-vbs/Strategic-International-Finance-Bootcamp-Vlerick-/blob/main/Comparables_GBM_2026.ipynb)
 
 This repository contains example code for an exercise developed for the Strategic International Finance Bootcamp at Vlerick Business School. We apply gradient boosting models (GBMs) to conduct relative valuation in an international setting.
