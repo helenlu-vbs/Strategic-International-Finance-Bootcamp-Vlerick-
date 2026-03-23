@@ -1,6 +1,10 @@
 # Strategic International Finance Bootcamp – Vlerick Business School
 ## International Comparable Company Valuation
 
+
+## Run code to conduct comparable company valuation in Google Colab, and use SHAP plots to understand the fundamental valuation drivers.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/Strategic-International-Finance-Bootcamp-Vlerick-/blob/main/notebooks/Comparables_GBM_2026.ipynb)
+
 This repository contains example code for an exercise developed for the Strategic International Finance Bootcamp at Vlerick Business School. We apply gradient boosting models (GBMs) to conduct relative valuation in an international setting.
 
 ## Target variables
@@ -39,4 +43,3 @@ Accounting information is the most recent available information as of the end of
 - **ESG Score**: best = 100, worst = 0
 - **CDS**: CDS as of January 26, 2026 (Damodaran website)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/Strategic-International-Finance-Bootcamp-Vlerick-/blob/main/notebooks/Comparables_GBM_2026.ipynb)
